@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- <img src="https://i.ibb.co.com/fYHGsmZL/ezgif-com-effects.gif" width="100%" alt="Header" /> -->
-  <img src="https://media1.tenor.com/m/B3KVc2memQgAAAAd/elliot-alderson.gif" width="100%" alt="Header" />
+  <img src="https://i.ibb.co.com/fYHGsmZL/ezgif-com-effects.gif" width="100%" alt="Header" />
+  <!-- <img src="https://media1.tenor.com/m/B3KVc2memQgAAAAd/elliot-alderson.gif" width="100%" alt="Header" /> -->
 ---
   <p>
     <a href="https://t.me/Nunofficial"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
